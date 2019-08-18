@@ -1,2 +1,4 @@
 # Deeplearning_muke
 根据慕课学习的一些深度学习的项目
+EDA_Python：用Python做的一个数据分析的小工具
+NumpySimpleUse：Numpy的简单简单使用，用的jupyter notebook
